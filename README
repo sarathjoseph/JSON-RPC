@@ -1,6 +1,6 @@
 
 Uses a Javascript client to capture and validate user input , uses a PHP middleware layer for demonstration of JSON RPC by using 
-PHP sockets to send data to Java Server. Backend uses POJO's (Plain Old Java Objects) for database interactions.
+for RESTFUL interactions that uses sockets to send data to Java Server. Backend uses POJO's (Plain Old Java Objects) for database interactions.
 
 
 
