@@ -1,0 +1,16 @@
+IMPORTANT INFO
+----------------
+
+1)SET THE DATABASE PROPERTIES and JAVA SERVER port in config.properties 
+2)The php folder contains 5 files (3 php files and one js and one css file)
+
+   validation.php- contains regex for user input validation
+   client.php - contains all the methods to interact with Java server
+   index.php - user input form 
+   
+   index.js- parses json response, makes AJAX calls to php server and contains DOM manipulation code
+
+3) config.properties has to be in the BIN folder (same location as the the rit756 package and NOT inside the package).
+   ie if compiled java class files are in /usr/bin/assignment/rit756 then config.properties has to reside in /usr/bin/assignment/
+
+
