@@ -1,11 +1,13 @@
 
+<b>Overview </b>
+
 This Application demonstrates one of the ways RESTFUL Webservices can be built without using HTTP for REST
 Uses a Javascript client to capture and validate user input , uses a PHP middleware layer for demonstration of JSON RPC using 
 sockets to send data to Java Server. Backend uses POJO's (Plain Old Java Objects) for database interactions.
 
 
 
-SETUP INSTRUCTIONS 
+<b>SETUP INSTRUCTIONS </b>
 
 1)SET THE DATABASE PROPERTIES and JAVA SERVER port in config.properties 
 2)The php folder contains 5 files (3 php files and one js and one css file)
